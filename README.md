@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TRISITDAS
 - 👀 I’m interested in coding and technology.
-- 🌱 I’m currently learning Computer Science Engineering.
+- 🌱 I’m currently pursuing B.Tech in Computer Science Engineering.
 - 💞️ 
 - 📫 How to reach me - trisitdas@gmail.com
 
