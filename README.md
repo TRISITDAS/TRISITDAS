@@ -1,12 +1,12 @@
 <!-- - 👋 Hi, I’m @TRISITDAS
-- 👀 I’m interested in coding and technology.
+- 👀 I’m interested in coding and technology. 
 - 🌱 I’m currently pursuing B.Tech in Computer Science Engineering.
 - 💞️ 
 - 📫 How to reach me - trisitdas@gmail.com -->
 
 <h1 align="center">Hi 👋, I'm Trisit Das</h1>
 <h3 align="center">A passionate student from India</h3>
-- 👀 I’m interested in coding and technology.
+- 👀 I’m interested in coding and technology.<br>
 - 🌱 I’m currently learning **B.Tech in Computer Science Engineering**
 
 - 📫 How to reach me **trisitdas@gmail.com**
