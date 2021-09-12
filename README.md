@@ -39,6 +39,11 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=TRISITDAS&&show_icons=true&title_color=ffffff&icon_color=ff8000&text_color=00ff00&bg_color=00004d">
+
+
+
+
 <!---
 TRISITDAS/TRISITDAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
