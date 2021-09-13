@@ -51,6 +51,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=TRISITDAS&&show_icons=true&title_color=ffffff&icon_color=ff8000&text_color=00ff00&bg_color=00004d">
 
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=TRISITDAS&theme=black-ice&hide_border=false&stroke=eeeeee&background=00004d">
+    <img  alt="TRISIT DAS's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TRISITDAS&theme=black-ice&hide_border=false&stroke=eeeeee&background=00004d"/>
+ </a>
+
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/trisit-das-316987173/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
