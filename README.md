@@ -50,10 +50,16 @@
 </br>
 
 ## 📊 My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=TRISITDAS&&show_icons=true&title_color=ffffff&icon_color=ff8000&text_color=00ff00&bg_color=00004d">
-<br>
-<img  alt="TRISIT DAS's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TRISITDAS&theme=chartreuse-dark&hide_border=false&stroke=eeeeee&background=52050e"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=TRISITDAS&&show_icons=true&title_color=ffffff&icon_color=ff8000&text_color=00ff00&bg_color=00004d"> -->
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=TRISITDAS&&show_icons=true&include_all_commits=true&title_color=ffffff&icon_color=ff8000&text_color=00ff00&bg_color=00004d)
+
+<!-- <img  alt="TRISIT DAS's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TRISITDAS&theme=chartreuse-dark&hide_border=false&stroke=eeeeee&background=52050e"/> -->
+
+![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=TRISITDAS&theme=chartreuse-dark&hide_border=false&stroke=eeeeee&background=52050e)
+<br>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TRISITDAS&layout=compact)
 
 ## Connect with me:
 <p align="left">
