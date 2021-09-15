@@ -66,7 +66,7 @@
 <a href = "mailto:trisitdas@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "https://www.linkedin.com/in/trisit-das-316987173/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
 <a href = "https://www.instagram.com/__f.r.o.i.d__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
-<a href = "" ><img src="https://img.icons8.com/color/48/000000/facebook.png"/> </a>
+<a href = "https://www.facebook.com/Trisitalex" ><img src="https://img.icons8.com/color/48/000000/facebook.png"/> </a>
 
    
    <!---
